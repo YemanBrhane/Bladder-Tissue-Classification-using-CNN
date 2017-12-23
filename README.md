@@ -37,7 +37,8 @@ Once all the libraries above have been installed, download the files and run the
 ![](confusionMatric_ROC_and_DSC/DC_boxplot.png "Description goes here")
 
 ## ROC Curve 
-![alt text](confusionMatric_ROC_and_DSC/Selection_020.png "Description goes here")
+![](confusionMatric_ROC_and_DSC/Selection_021.png "Description goes here")
 
-![alt text](confusionMatric_ROC_and_DSC/DC_boxplot.png "Description goes here")
+## Confusion matrix
+![](confusionMatric_ROC_and_DSC/Selection_020.png "Description goes here")
 
