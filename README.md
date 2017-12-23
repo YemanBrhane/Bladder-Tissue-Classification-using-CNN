@@ -28,13 +28,13 @@ The code has been tested with the following configuration
 Once all the libraries above have been installed, download the files and run them.
 
 ## sample output
- 	Selection_018.png
 
-![alt text](confusionMatric_ROC_and_DSC/DSelection_018.png "sample output image")
-![alt text](confusionMatric_ROC_and_DSC/Selection_019.png"sample output image")
+![](confusionMatric_ROC_and_DSC/DSelection_018.png "sample output image")
+
+![](confusionMatric_ROC_and_DSC/Selection_019.png"sample output image")
 
 ## Dice index evaluation
-![alt text](confusionMatric_ROC_and_DSC/DC_boxplot.png "Description goes here")
+![](confusionMatric_ROC_and_DSC/DC_boxplot.png "Description goes here")
 
 ## ROC Curve 
 ![alt text](confusionMatric_ROC_and_DSC/DSelection_020.png "Description goes here")
