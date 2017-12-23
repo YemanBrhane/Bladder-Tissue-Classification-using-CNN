@@ -1,26 +1,29 @@
 # Bladder-Tissue-Classification-using-CNN
-## Synopsis
 
 Implemented and trained convolutional neural network(CNN) from scratch using matlab and keras with tensorflow
 back-end to classify bladder pathology image regions into soft tissue, muscle, and tumor. Applied patch based classification as size of pathology images is very large. Evaluated CNN and CNN + Support Vector Machine(SVM)
 
-## Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
-[I'm an inline-style link](https://www.google.com)
+The project is implemented in MATLAB and Python. MATLAB implemetation is tested in version 2016b, while python version is tested in python3.6 and 
 
-## Motivation
+## Libraries for python code
+The code has been tested with the following configuration
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+- keras == 2.1.2
+- python == 3.6
+- scipy == 0.19.0
+- sckit-learn == 0.18.1
+- tensorflow == 1.4.1
+- tensorflow-gpu == 1.4.1
 
-## Installation
+## Libraries for matlab code
+The code has been tested with the following configuration
 
-Provide code examples and explanations of how to get the project.
+-matlab2016
+-[matconvnet24](http://www.vlfeat.org/matconvnet/)
 
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
+## How to run it
+Once all the libraries above have been installed, the following step is to run the jupyter notebook on the folder containing the iSeg2017.ipynb file. 
 
 ![alt text](confusionMatric_ROC_and_DSC/DC_boxplot.png "Description goes here")
