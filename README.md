@@ -20,9 +20,9 @@ The code has been tested with the following configuration
 ## Libraries for matlab code
 The code has been tested with the following configuration
 
--matlab2016
+- matlab2016
 
--[matconvnet24](http://www.vlfeat.org/matconvnet/)
+- [matconvnet24](http://www.vlfeat.org/matconvnet/)
 
 ## How to run it
 Once all the libraries above have been installed, download the files and run them.
