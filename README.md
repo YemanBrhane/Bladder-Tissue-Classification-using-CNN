@@ -30,7 +30,7 @@ Once all the libraries above have been installed, download the files and run the
 ## sample output
 
 ![](confusionMatric_ROC_and_DSC/Selection_018.png "sample output image")
-![](confusionMatric_ROC_and_DSC/Selection_019.png "sample output image")
+![](confusionMatric_ROC_and_DSC/Selection_029.png "sample output image")
 
 ## Dice index evaluation
 ![](confusionMatric_ROC_and_DSC/DC_boxplot.png "Description goes here")
